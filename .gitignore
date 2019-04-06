@@ -1,0 +1,6 @@
+# FluxBB specific
+public/cache/
+public/config.php
+public/favicon.ico
+public/img/avatars/
+public/robots.txt
